@@ -24,5 +24,8 @@
 	<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
 	<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white" />
 	<br>
-	
+</div>
+
+<div>
+	<h3>⚙️ 개발 환경 및 담당</h3>
 </div>
