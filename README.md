@@ -6,7 +6,24 @@
   각 프로젝트에 대한 자세한 코드 및 설명은 Github 페이지로 호스팅 됩니다. <br/>
   <br/>
 
-<h2>부끄부크(BuekkBook)</h2>
+## 부끄부크(BuekkBook)
+
+## Intro: 서비스 소개
+<br/>
+
+### 서점으로 정한 이유
+![서점으로_정한_이유](https://github.com/jiyoung0307/BuekkBook/assets/110333953/d2f9c866-ab9f-4425-9385-688c0acefdee)
+
+<strong>부끄부크</strong>는 판매장과 물류창고를 보유하고 있는 서점으로 보다 서점의 업무를 분석 및 물류 과정을 좀 더 이해하고 공부하여 사용자 입장에서 편리하고 체계적으로 관리하는 ERP 프로그램입니다.<br/>
+
+Spring boot와 SpringSecurity, JPA를 활용하여 구현하였으며<br /> <strong>전자결재</strong> , <strong>인사부</strong>, <strong>도서물류부</strong>, <strong>재무부</strong>, <strong>총무부</strong> 및 입출고 관련 기능을 제공하고 있습니다.<br /><br />
+
+### 부끄부크 서점 구조
+![부끄부크_서점_구조](https://github.com/jiyoung0307/BuekkBook/assets/110333953/f9b3ccc2-a386-45fc-b899-d1fb41f6c115)
+
+또한 부끄부크의 경우 물류 창고를 기준으로 거래처에 발주를 넣어 재고를 확보할 수도 있으며 거래처에서는 물류 창고에 입고를 할 수 있습니다.<br />
+그리고 물류창고에서 판매장으로 출고를 할 수도 있으며 만일 판매장에서 재고가 부족한 경우 물류창고로 출고 신청을 할 수 있도록 설정하였습니다.<br /><br />
+
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 </div>
