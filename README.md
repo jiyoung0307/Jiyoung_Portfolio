@@ -25,7 +25,12 @@
 	<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white" />
 	<br>
 </div>
-
+<br />
 <div>
-	<h3>⚙️ 개발 환경 및 담당</h3>
+	<h3> ⚙️ 개발 환경 및 담당</h3>
+</div>
+<div>
+	개발 기간 : 2022.06.19 ~ 2022.07.27 <br />
+ 	개발 인원 : 6명 <br />
+  	역할 : 문서 관리 팀장 / 인사부 기능 담당	 <br />
 </div>
