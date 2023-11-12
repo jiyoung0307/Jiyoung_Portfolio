@@ -19,7 +19,7 @@
 Spring boot와 SpringSecurity, JPA를 활용하여 구현하였으며<br /> <strong>전자결재</strong> , <strong>인사부</strong>, <strong>도서물류부</strong>, <strong>재무부</strong>, <strong>총무부</strong> 및 입출고 관련 기능을 제공하고 있습니다.<br /><br />
 
 ### 부끄부크 서점 구조
-![부끄부크_서점_구조](https://github.com/jiyoung0307/BuekkBook/assets/110333953/f9b3ccc2-a386-45fc-b899-d1fb41f6c115)
+![부끄부크 서점 구조](https://github.com/jiyoung0307/BuekkBook/assets/110333953/8948bb92-8086-4b9d-9213-6424658af2f7)
 
 또한 부끄부크의 경우 물류 창고를 기준으로 거래처에 발주를 넣어 재고를 확보할 수도 있으며 거래처에서는 물류 창고에 입고를 할 수 있습니다.<br />
 그리고 물류창고에서 판매장으로 출고를 할 수도 있으며 만일 판매장에서 재고가 부족한 경우 물류창고로 출고 신청을 할 수 있도록 설정하였습니다.<br /><br />
