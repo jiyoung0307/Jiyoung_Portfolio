@@ -1,5 +1,3 @@
-# Portfolio
-
 <p align="center">
   <h1 align="center">Ji young's Portfolio ✨</h1>
 
