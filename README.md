@@ -52,5 +52,9 @@ Spring boot와 SpringSecurity, JPA를 활용하여 구현하였으며<br /> <str
   	역할 : 문서 관리 팀장 / 인사부 기능 담당	 <br />
 </div>
 <br />
+<div>
+	<h3>프로젝트 바로가기</h3>
+	<a href="https://github.com/jiyoung0307/BuekkBook.git">BuekkBook</a>
+</div>
 
 
