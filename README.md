@@ -54,5 +54,7 @@ Spring boot와 SpringSecurity, JPA를 활용하여 구현하였으며<br /> <str
 <br />
 <div>
 	<h3>유스케이스 다이어그램</h3>
+	![유스케이스 다이어그램](https://github.com/jiyoung0307/BuekkBook/assets/110333953/492267a5-60c9-4955-89fd-c5ea23567b61)
+
 </div>
 
