@@ -57,5 +57,3 @@ Spring boot와 SpringSecurity, JPA를 활용하여 구현하였으며<br /> <str
 	<h3>프로젝트 바로가기</h3>
 	<a href="https://github.com/jiyoung0307/BuekkBook.git">BuekkBook</a>
 </div>
-
-
