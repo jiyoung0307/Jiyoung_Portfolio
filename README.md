@@ -14,6 +14,7 @@
 ### 서점으로 정한 이유
 ![서점으로 정한 이유](https://github.com/jiyoung0307/BuekkBook/assets/110333953/058e348e-fc5c-4832-baac-b8c207575748)
 
+### 개요
 <strong>부끄부크</strong>는 판매장과 물류창고를 보유하고 있는 서점으로 보다 서점의 업무를 분석 및 물류 과정을 좀 더 이해하고 공부하여 사용자 입장에서 편리하고 체계적으로 관리하는 ERP 프로그램입니다.<br/>
 
 Spring boot와 SpringSecurity, JPA를 활용하여 구현하였으며<br /> <strong>전자결재</strong> , <strong>인사부</strong>, <strong>도서물류부</strong>, <strong>재무부</strong>, <strong>총무부</strong> 및 입출고 관련 기능을 제공하고 있습니다.<br /><br />
